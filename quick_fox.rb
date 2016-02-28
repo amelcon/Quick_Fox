@@ -1,6 +1,5 @@
 class Fox
-  attr_accessor :jumped_over1
-  attr_accessor :jumped_over2
+  attr_accessor :jumped_over1, :jumped_over2
   def intitialize jumped_over1,jumped_over2
     @jumped_over1 = jumped_over1
     @jumped_over2 - jumped_over2
